@@ -1,5 +1,5 @@
 [![MasterHead]
-(./img.png)]
+(https://github.com/Adarsh121003/Adarsh121003/blob/main/img.png)]
 <h1 align="center">Hi 👋, I'm Adarsh Tiwari</h1>
 <h3 align="center">A Full Stack Developer From India / Mern Stack Development</h3>
 
