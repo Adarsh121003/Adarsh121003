@@ -1,5 +1,5 @@
 [![MasterHead]
-(https://github.com/Adarsh121003/Adarsh121003/blob/main/img.png)]
+(https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/repo-header-image.png)]
 <h1 align="center">Hi 👋, I'm Adarsh Tiwari</h1>
 <h3 align="center">A Full Stack Developer From India / Mern Stack Development</h3>
 
