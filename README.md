@@ -1,8 +1,15 @@
-
 <h1 align="center">Hi 👋, I'm Adarsh Tiwari</h1>
 <h3 align="center">A Full Stack Developer From India / Mern Stack Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh121003&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh121003" /> </p>
+
+- 🔭 I’m currently working on [Hostel Management System](https://github.com/kunal-2002/hostel-management-system)
+
+- 🌱 I’m currently learning **NodeJS, ReactJS, ExpressJS, MongoDB, React Native**
+
+- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, C++, Python**
+
+- 📫 How to reach me **adarshtiwari.110044@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
