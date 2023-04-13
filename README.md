@@ -1,4 +1,4 @@
-![Header](./github-header-image (1).png)
+[![MasterHead](./github-header-image (1).png)]
 <h1 align="center">Hi 👋, I'm Adarsh Tiwari</h1>
 <h3 align="center">A Full Stack Developer From India / Mern Stack Development</h3>
 
