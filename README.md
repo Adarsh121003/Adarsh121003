@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Solidity, Block Chain, Cloud Computing, JavaScript Libraries**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, NodeJs, ExpressJS, MySQL,TypeScript, ReactJS, MongoDB, Mongoose C++, Python**
+- 💬 Ask me about **HTML, CSS, Bootstrap, TailwendCSS, JavaScript, NodeJs, ExpressJS, MySQL,TypeScript, ReactJS, MongoDB, Mongoose, C++, Python**
 
 - 📫 How to reach me **adarshtiwari.110044@gmail.com**
 
