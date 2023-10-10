@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on [Hostel Management System](https://github.com/kunal-2002/hostel-management-system)
 
-- 🌱 I’m currently learning **NodeJS, ReactJS, ExpressJS, MongoDB, React Native**
+- 🌱 I’m currently learning **Solidity, Block Chain, Cloud Computing, JavaScript Libraries**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, NodeJs, ExpressJS, MySQL, ReactJS, MongoDB, Mongoose C++, Python**
+- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, NodeJs, ExpressJS, MySQL,TypeScript, ReactJS, MongoDB, Mongoose C++, Python**
 
 - 📫 How to reach me **adarshtiwari.110044@gmail.com**
 
