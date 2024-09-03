@@ -1,16 +1,16 @@
 ![MasterHead](https://github.com/Adarsh121003/Adarsh121003/blob/main/img.png)
 <h1 align="center">Hi 👋, I'm Adarsh Tiwari</h1>
-<h3 align="center">A Full Stack Developer From India / Mern Stack Development</h3>
+<h3 align="center">Software Developer </h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" style="border-radius: 20px;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh121003&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh121003" /> </p>
 
-- 🔭 I’m currently working on [Hostel Management System](https://github.com/kunal-2002/hostel-management-system)
+- 🔭 I’m currently working on StrongMoments Technologies Pvt Ltd
 
-- 🌱 I’m currently learning **Solidity, Block Chain, Cloud Computing, JavaScript Libraries**
+- 🌱 I’m currently learning **Java, SpringBoot, MicroServices, SystemDesign, Cloud**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, TailwendCSS, JavaScript, NodeJs, ExpressJS, MySQL,TypeScript, ReactJS, MongoDB, Mongoose, C++, Python**
+- 💬 Ask me about **HTML, CSS, Bootstrap, TailwendCSS, JavaScript, NodeJs, ExpressJS, MySQL,TypeScript, ReactJS, MongoDB, Mongoose, C++, Python, Java, MicroServices, PostgressSQL**
 
 - 📫 How to reach me **adarshtiwari.110044@gmail.com**
 
