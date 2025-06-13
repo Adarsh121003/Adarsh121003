@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on Venture7 Technology Private Limited
 
-- 🌱 I’m currently learning **Python, FastAPI, Pytorch, GenrativeAI, Machine Learning, NLP**
+- 🌱 I’m currently learning **Python, FastAPI, Pytorch, GenrativeAI,Agentic AI, LangChain,MCP,A2A Protocol, Machine Learning, NLP**
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, TailwendCSS, JavaScript, NodeJs, ExpressJS, MySQL,TypeScript, ReactJS, MongoDB, Mongoose, C++, Python, Java, MicroServices, PostgressSQL, Java, SpringBoot, MicroServices, SystemDesign, Cloud, CI/D, GithubActions, AWS, GenrativeAI, Agents, A2AProtocol**
 
